@@ -1,0 +1,7 @@
+{  
+  "minimum-stability" : "dev",
+  "require": {
+    "phpmailer/phpmailer": "dev-master",
+    "ircmaxell/password-compat": "dev-master"
+  }
+}

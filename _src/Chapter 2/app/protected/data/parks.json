@@ -1,0 +1,212 @@
+[
+  {
+    "name":"Cancer Survivors' Garden",
+    "lat": "41.884242",
+    "long": "-87.617404",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Chicago Women's Park and Gardens",
+    "lat": "41.85711",
+    "long":"-87.621524",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Coliseum Park",
+    "lat": "41.862176",
+    "long":"-87.625816",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Cotton Tail Park",
+    "lat": "41.862607",
+    "long":"-87.628949",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"D'Angelo Dog Park",
+    "lat": "41.87595",
+    "long":"-87.635322",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Dearborn Park",
+    "lat": "41.870533",
+    "long":"-87.62955",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Dusable Park",
+    "lat": "41.889672",
+    "long":"-87.613628",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Fullerton River Park",
+    "lat": "41.889003",
+    "long":"-87.643787",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Heritage Green Park",
+    "lat": "41.879385",
+    "long":"-87.643497",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Jefferson Park",
+    "lat": "41.858884",
+    "long":"-87.641931",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Jones Park",
+    "lat": "41.865899",
+    "long":"-87.628498",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Lake Shore East Park",
+    "lat": "41.885505",
+    "long":"-87.617683",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Maggie Daley Park",
+    "lat": "41.882557",
+    "long":"-87.619035",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Margaret Hie Ding Lin Park",
+    "lat": "41.858118",
+    "long":"-87.626889",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"McCormick Bird Sanctuary",
+    "lat": "41.849566",
+    "long":"-87.611783",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Millennium Park",
+    "lat": "41.882653",
+    "long":"-87.622468",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Museum Campus",
+    "lat": "41.861505",
+    "long":"-87.614572",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Ogden Plaza",
+    "lat": "41.890257",
+    "long":"-87.620162",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Oscar O. D'Angelo Park",
+    "lat": "41.875071",
+    "long":"-87.633648",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Park No. 540",
+    "lat": "41.848479",
+    "long":"-87.628284",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Ping Tom Memorial Park",
+    "lat": "41.857813",
+    "long":"-87.634399",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Ping Tom Memory Park East",
+    "lat": "41.858676",
+    "long":"-87.632017",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Printers' Row Park",
+    "lat": "41.873425",
+    "long":"-87.62912",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Prizker Park",
+    "lat": "41.877293",
+    "long":"-87.627704",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"River Esplanade Park",
+    "lat": "41.888819",
+    "long":"-87.617308",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Roosevelt Park",
+    "lat": "41.868552",
+    "long":"-87.630236",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Seated Lincoln",
+    "lat": "41.877229",
+    "long":"-87.621363",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Sun-Yet-Seen Park",
+    "lat": "41.848031",
+    "long":"-87.633862",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"The Battle of For Dearborn Park",
+    "lat": "41.857909",
+    "long":"-87.619314",
+    "city" : "Chicago",
+    "state" : "IL"
+  },
+  {
+    "name":"Webster Park",
+    "lat": "41.864119",
+    "long":"-87.621793",
+    "city" : "Chicago",
+    "state" : "IL"
+  }
+]

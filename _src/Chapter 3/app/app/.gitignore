@@ -1,0 +1,10 @@
+/assets/*
+!/assets/.gitignore
+/protected/runtime/*
+/protected/data/*
+!/protected/data/parks.json
+.htaccess
+*.*~
+*.swp
+/vendor/*
+composer.lock

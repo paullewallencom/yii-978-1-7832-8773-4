@@ -1,0 +1,6 @@
+/assets/*
+/protected/runtime/*
+/protect/data/*
+.htaccess
+*.*~
+*.swp

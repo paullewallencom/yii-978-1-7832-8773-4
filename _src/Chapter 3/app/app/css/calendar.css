@@ -1,0 +1,214 @@
+.event_container {
+	background: #ffffff;
+	border: 1px solid #dbdbdb;
+	color: #272727;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.event_container a,
+.event_container a:hover,
+.event_container a:visited,
+.event_container a:active
+ {
+	color: #272727;
+	text-decoration: none;
+}
+
+.event_container .month_year_picker a.fa {
+	margin-top: 12px;
+}
+
+.event_container .month_year_picker {
+	width: 100%;
+	text-align:center;
+	padding: 20px;
+	font-size: 50px;
+	position: relative;
+	background: #f6f6f6;
+	border-bottom: 1px solid #dbdbdb;
+}
+
+.event_container .day_picker ul {
+	margin: 0;
+	padding: 0;
+	text-align:center;
+	border-bottom: 1px solid #dbdbdb;
+}
+
+.event_container .day_picker ul li {
+	list-style: none;
+	display:inline-block;
+	padding: 2px 10px;
+}
+
+.event_container .day_picker ul li.selected {
+	font-weight: bold;
+}
+
+.event_container .day_picker ul li span,
+.event_container .day_picker ul li a {
+	width: 100%;
+	margin:0 auto;
+	display:block;
+}
+
+.event_container .outer_container {
+	margin: 0 auto;
+	width: 100%;
+}
+
+/** Details **/
+.event_container .outer_container .inner_container,
+.event_container .outer_container .details {
+	width: 50%;
+	float:left;
+}
+
+.event_container .outer_container .details {
+	padding: 10px;
+	background: #f6f6f6;
+	height: 100%;
+	min-height: 340px;
+	border: 1px solid #dbdbdb;
+}
+
+.event_container .outer_container .details > div {
+	display: block;
+	min-height: 41px;
+	padding: 11px;
+	border: 1px solid #dbdbdb;
+	border-bottom: none;
+	background: #fff;
+}
+
+.event_container .outer_container .details > div:first-child {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.event_container .outer_container .details > div:last-child {
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.event_container .outer_container .details > div h2 {
+	margin: 0px;
+}
+
+.event_container .outer_container .details > div ul {
+	margin: 0;
+	padding: 0;
+}
+
+.event_container .outer_container .details > div li {
+	list-style: none;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.event_container .outer_container .details .btn-full {
+	width: 100%;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+	border-top: 1px solid #dbdbdb;
+	font-weight: bold;
+}
+
+.event_container .outer_container .inner_container .selected_date {
+	padding: 20px;
+	font-size: 40px;
+	position: relative;
+	width: 100%;
+	font-weight: bold;
+	border-bottom: 1px solid #dbdbdb;
+	clear:both;
+	margin: 0 auto;
+	text-align:center;
+	border-right: 1px solid #dbdbdb;
+}
+
+/** Sorter **/
+.event_container .outer_container .inner_container .sorter,
+.event_container .outer_container .inner_container .items {
+	background: #f6f6f6;
+	border-bottom: 1px solid #dbdbdb;
+	clear:both;
+	padding: 10px;
+	border-right: 1px solid #dbdbdb;
+}
+
+.event_container .outer_container .inner_container .sorter {
+	text-align: left;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0;
+}
+
+.event_container .outer_container .inner_container .sorter li a.desc,
+.event_container .outer_container .inner_container .sorter li a.asc {
+	background: none;
+}
+
+.event_container .outer_container .inner_container .sorter li a.desc:after,
+.event_container .outer_container .inner_container .sorter li a.asc:after {
+	font-family: "FontAwesome";
+	margin-left: 6px;
+	position: relative;
+	top: 0px;
+}
+
+.event_container .outer_container .inner_container .sorter li a.desc:after {
+	content: "\f0de";
+}
+
+.event_container .outer_container .inner_container .sorter li a.asc:after {
+	content: "\f0dd";
+}
+
+/** Items **/
+.event_container .outer_container .inner_container ul.items {
+	list-style: none;
+	padding-top: 20px;
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+
+.event_container .outer_container .inner_container ul.items li:first-child {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.event_container .outer_container .inner_container ul.items li:last-child {
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+	
+.event_container .outer_container .inner_container ul.items li {
+	display: block;
+	min-height: 41px;
+	padding: 11px;
+	border: 1px solid #dbdbdb;
+	background: #fff;
+}
+
+.event_container .outer_container .inner_container ul.items li .time {
+	border-radius: 3px;
+	color: #F6F6F6;
+	font-size: 15px;
+	padding: 10px;
+	float: left;
+	font-weight: bold;
+	line-height: 100%;
+	background: #d44d45;
+	border: 1px solid #b8413a;
+	margin-right: 10px;
+}
+
+.event_container .outer_container .inner_container ul.items li h2 {
+	margin: 0;
+}
